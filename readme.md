@@ -4,44 +4,37 @@
 ---
 <br>
 
-## R1 : 
+## R1 : Website Description
 ---
-### Description of our website :
 
+- ### Purpose :
+- ### Functionality / features
+- ### Target audience
+- ### Tech stack
 
 <br>
 
-## Q1 : 
----
-
-<br>
-
-## Q1 : 
+## R2 : Dataflow Diagram
 ---
 
 <br>
 
-## Q1 : 
+## R3 : Application Architecture Diagram
 ---
 
 <br>
 
-## Q1 : 
+## R4 : User Stories
 ---
 
 <br>
 
-## Q1 : 
+## R5 : Wireframes for multiple standard screen sizes, created using industry standard software	
 ---
 
 <br>
 
-## Q1 : 
----
-
-<br>
-
-## Q1 : 
+## R6 : Screenshots of your Trello board throughout the duration of the project	
 ---
 
 <br>

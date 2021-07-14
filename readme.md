@@ -94,6 +94,12 @@ Git
 
 Github
 
+- ### Project Management :
+
+Trello
+
+Discord
+
 - ###  Source-Code Editor :
 
 Microsoft Visual Studio Code
@@ -108,6 +114,7 @@ Microsoft Visual Studio Code
 
 ## R3 : Application Architecture Diagram
 ---
+![ AAD ](/docs/Diagrams/aad.png)
 
 <br>
 

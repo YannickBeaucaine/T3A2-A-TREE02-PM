@@ -1,4 +1,4 @@
-# T3A2-A Workbook
+# T3A2-A Full Stack
 <div style="text-align: right"> Chris Tzatzis & Yannick Beaucaine </div>
 
 ---

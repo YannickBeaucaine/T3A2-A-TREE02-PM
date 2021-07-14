@@ -36,7 +36,7 @@ Our application will solve this problem by creating a portal for their costumers
 
  Ability as to create an administrator account to control and users profiles
 
- 
+Simple and intuitive user tested design  
 
 
 - ### Target audience :

@@ -34,6 +34,10 @@ Our application will solve this problem by creating a portal for their costumers
 
  Abiltity to see all partnering stores and see relevant information about businesses.
 
+ Ability as to create an administrator account to control and users profiles
+
+ 
+
 
 - ### Target audience :
 

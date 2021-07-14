@@ -111,12 +111,29 @@ Microsoft Visual Studio Code
 
 ## R4 : User Stories
 ---
+- As a visitor I want to be able to sign up for an account so I can adopt a tree.
+
+- As a visitor I want to be to see information about Tree02 so that I can make an informed decision about adopting a tree.
+
+- As a user I want to be able to sign into my account so that I can view information in regards to adopting trees.
+
+- As a user I want to be able to see my stores adoption statistics so I can see how much my store is helping coffee farmers in Timor Leste.
+
+- As a user I want to be able to adopt a tree through the website and pay for it using a credit card.
+
+- As a user I want to be able to see what trees I have already adopted so I can see the impact I am having on farmers.
+
+- As a user I want to be able to see other stores which are also offering customers to adopt trees through tree02.
+
+- As an administrator I want to be able to see the accounts which have been made so I see statistics about how many trees each customer has adopted.
+
+- As a site administrator I want to be able to edit or delete user accounts.
 
 <br>
 
 ## R5 : Wireframes for multiple standard screen sizes, created using industry standard software	
 ---
-For this project we have used Adobe XD to wireframe and prototype our application and test user experience. We have initially started with making low resolution wireframes with our client to adapt the application to his needs. For this project we have designed our wireframes by using an agile method, creating our design by components to simplifiy changes requested by our client starting with a sitemap.
+For this project we have used Adobe XD to wireframe and prototype our application and test user experience. We have initially started with making low resolution wireframes and a sitemap with our client to adapt the application to his needs. For this project we have designed our wireframes by using an agile method, creating our design by components to simplifiy changes requested by our client.
 
 - ## Site Map :
 

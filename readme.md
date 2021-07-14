@@ -234,39 +234,39 @@ Partners Page
 ---
 Home Page
 
-![ Hi-Res Wireframes](/docs/Wireframes-Tablet/homepage.png)
+![ Hi-Res Wireframes](/docs/wireframes-Tablet/homepage.png)
 
 About Page
 
-![ Hi-Res Wireframes](/docs/Wireframes-Tablet/about.png)
+![ Hi-Res Wireframes](/docs/wireframes-Tablet/about.png)
 
 My Store Page
 
-![ Hi-Res Wireframes](/docs/Wireframes-Tablet/mystore.png)
+![ Hi-Res Wireframes](/docs/wireframes-Tablet/mystore.png)
 
 My Account Page
 
-![ Hi-Res Wireframes](/docs/Wireframes-Tablet/myaccount.png)
+![ Hi-Res Wireframes](/docs/wireframes-Tablet/myaccount.png)
 
 My Trees Page
 
-![ Hi-Res Wireframes](/docs/Wireframes-Tablet/mytrees-01.png)
+![ Hi-Res Wireframes](/docs/wireframes-Tablet/mytrees-01.png)
 
 My Trees Scrolled Page
 
-![ Hi-Res Wireframes](/docs/Wireframes-Tablet/mytrees-02.png)
+![ Hi-Res Wireframes](/docs/wireframes-Tablet/mytrees-02.png)
 
 Adopt A Tree Page
 
-![ Hi-Res Wireframes](/docs/Wireframes-Tablet/adoptatree.png)
+![ Hi-Res Wireframes](/docs/wireframes-Tablet/adoptatree.png)
 
 Adopted Tree Page
 
-![ Hi-Res Wireframes](/docs/Wireframes-Tablet/adoptedtree.png)
+![ Hi-Res Wireframes](/docs/wireframes-Tablet/adoptedtree.png)
 
 Partners Page
 
-![ Hi-Res Wireframes](/docs/Wireframes-Tablet/partners.png)
+![ Hi-Res Wireframes](/docs/wireframes-Tablet/partners.png)
 
 <br>
 

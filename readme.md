@@ -62,12 +62,150 @@ Partering business currently the service is only offered to costumers attending 
 For this project we have used Adobe UX to wireframe and prototype our application and test user experience. We have initially started with making low resolution wireframes with our client to adapt the application to his needs. For this project we have designed our wireframes by using an agile method, creating our design by components to simplifiy changes requested by our client.
 
 - ## Low resolution wireframes :
+Homepage
+
+![ Low-Res Wireframes](/docs/Lo-res-wireframes/homepage.png)
+
+About Page
+
+![ Low-Res Wireframes](/docs/Lo-res-wireframes/about.png)
+
+My Store Page
+
+![ Low-Res Wireframes](/docs/Lo-res-wireframes/mystore.png)
+
+Partners Page
+
+![ Low-Res Wireframes](/docs/Lo-res-wireframes/partners.png)
+
+My Account Page
+
+![ Low-Res Wireframes](/docs/Lo-res-wireframes/myaccount.png)
+
+Adopt A Tree Page
+
+![ Low-Res Wireframes](/docs/Lo-res-wireframes/adoptatree.png)
+
+My Trees page
+
+![ Low-Res Wireframes](/docs/Lo-res-wireframes/mytrees.png)
+
 
 - ## High resolution wireframes :
 
 - ### Desktop version :
+---
+Home Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Desktop/homepage.png)
+
+About Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Desktop/about.png)
+
+My Store Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Desktop/mystore.png)
+
+My Account Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Desktop/myaccount.png)
+
+My Trees Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Desktop/mytrees-01.png)
+
+My Trees Scrolled Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Desktop/mytrees-02.png)
+
+Adopt A Tree Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Desktop/adoptatree.png)
+
+Adopted Tree Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Desktop/adoptedtree.png)
+
+Partners Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Desktop/partners.png)
+
 - ### Phone version :
+---
+Home Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Phone/homepage.png)
+
+About Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Phone/about.png)
+
+My Store Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Phone/mystore.png)
+
+My Account Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Phone/myaccount.png)
+
+My Trees Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Phone/mytrees-01.png)
+
+My Trees Scrolled Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Phone/mytrees-02.png)
+
+Adopt A Tree Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Phone/adoptatree.png)
+
+Adopted Tree Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Phone/adoptedtree.png)
+
+Partners Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Phone/partners.png)
+
 - ### Tablet version :
+---
+Home Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Tablet/homepage.png)
+
+About Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Tablet/about.png)
+
+My Store Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Tablet/mystore.png)
+
+My Account Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Tablet/myaccount.png)
+
+My Trees Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Tablet/mytrees-01.png)
+
+My Trees Scrolled Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Tablet/mytrees-02.png)
+
+Adopt A Tree Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Tablet/adoptatree.png)
+
+Adopted Tree Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Tablet/adoptedtree.png)
+
+Partners Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Tablet/partners.png)
 
 <br>
 

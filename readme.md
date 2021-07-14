@@ -4,19 +4,21 @@
 ---
 <br>
 
+![ Low-Res Wireframes](/docs/Logo/treeO2-white.png)
+
 ## R1 : Website Description
 ---
 
 - ### Purpose :
 
-Tree02 is an application designed to create a customer portal between a user wanting to adopt a tree and a company that offers the service .It allow users to adopt a tree and track the relevant information about their tree, such as location, type of tree, the name of the farm and the farmer,
-as well as the impact of the carbon footprint that their tree contributes to the earth.
+Tree02 is an application designed to create a customer portal between a user wanting to adopt a tree and a company that offers the service .It allow users to adopt a tree and track the relevant information about their adopted tree, such as location, type of tree, the name of the farm and the farmer,
+as well as the impact of the carbon footprint that their tree contributes to the ecosystem.
 
 
 After discussing with our client about the requirements for the application and their needs from a business and customer point of view, we came to the conclusion that they didn't have a way to connect their clients with their new tree adoption business. Altought they have an incomplete API that have been written by a previous company in the past, they have been having to manually input costumers purchases and then emailing costumers back with information about their adopted tree.
 
 
-Our application will solve this problem by creating a portal for their costumers to be able to direclty purchase their tree adoption and receive the relevant data about their adoption such as the type of tree, their location and the farmer that they will be supporting. Cutting down on the manual input for the business and reducing labour cost by automatting the process. It would aditionally give the users and businesses more feedback about their contribuition by having a live update functionality.
+Our application will solve this problem by creating a portal for their costumers to be able to direclty purchase their tree adoption and receive the relevant data about their adoption such as the type of tree, their location and the farmer that they will be supporting. Cutting down on the manual input for the business and reducing labour cost by automatting the process. It would aditionally give the users and businesses more feedback about their contribuition by having a "live update" functionality.
 
 - ### Functionality / features :
 
@@ -33,17 +35,72 @@ Our application will solve this problem by creating a portal for their costumers
 
 - ### Target audience :
 
-Partering business currently the service is only offered to costumers attending any of the their venues. The target audience are the Eco activists wanting to have a positive impact on the planet by adopting a tree to reduce the worlds carbon footprint and supporting farmer communities in need the region of Timor-Leste.
+Partnering businesses currently using the system is only offering the service to costumers attending any of the their venues physically. The target audience are the Eco activists wanting to have a positive impact on the planet by adopting a tree to reduce the worlds carbon footprint and supporting farmer communities in need in the region of Timor-Leste.
 
 
 
 
 - ### Tech stack :
 
+![ Tech Stack](/docs/Tech/techstack.png)
+
+- ### Design :
+
+Adobe photoshop
+
+Adobe UX
+
+- ### OS :
+
+Google Chrome
+
+Mac OSX
+
+- ### Backend :
+
+Node.js 
+
+Javascript
+
+Ruby on Rails
+
+- ### Database :
+
+PostgreSQL
+
+- ### Frontend :
+
+HTML
+
+CSS3
+
+React
+
+- ### API :
+
+Stripe
+
+Devise
+
+- ### Deployment :
+
+Heroku
+
+- ### Source Control :
+
+Git
+
+Github
+
+- ###  Source-Code Editor :
+
+Microsoft Visual Studio Code
+
 <br>
 
 ## R2 : Dataflow Diagram
 ---
+![ Dataflow Diagram](/docs/Diagrams/dataflowdiagram.png)
 
 <br>
 
@@ -59,7 +116,11 @@ Partering business currently the service is only offered to costumers attending 
 
 ## R5 : Wireframes for multiple standard screen sizes, created using industry standard software	
 ---
-For this project we have used Adobe UX to wireframe and prototype our application and test user experience. We have initially started with making low resolution wireframes with our client to adapt the application to his needs. For this project we have designed our wireframes by using an agile method, creating our design by components to simplifiy changes requested by our client.
+For this project we have used Adobe XD to wireframe and prototype our application and test user experience. We have initially started with making low resolution wireframes with our client to adapt the application to his needs. For this project we have designed our wireframes by using an agile method, creating our design by components to simplifiy changes requested by our client starting with a sitemap.
+
+- ## Site Map :
+
+![ Site Map](/docs/Diagrams/sitemap.png)
 
 - ## Low resolution wireframes :
 Homepage
@@ -211,5 +272,15 @@ Partners Page
 
 ## R6 : Screenshots of your Trello board throughout the duration of the project	
 ---
+
+Link to Trello : https://trello.com/b/KsSmOPrU/tree02-project-management
+
+![ Trello Screenshot ](/docs/Trello/PM-trello-1.png)
+![ Trello Screenshot ](/docs/Trello/PM-trello-2.png)
+![ Trello Screenshot ](/docs/Trello/PM-trello-3.png)
+![ Trello Screenshot ](/docs/Trello/PM-trello-4.png)
+![ Trello Screenshot ](/docs/Trello/PM-trello-5.png)
+![ Trello Screenshot ](/docs/Trello/PM-trello-6.png)
+![ Trello Screenshot ](/docs/Trello/PM-trello-7.png)
 
 <br>

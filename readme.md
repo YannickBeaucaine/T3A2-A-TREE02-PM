@@ -192,6 +192,10 @@ Home Page
 
 ![ Hi-Res Wireframes](/docs/Wireframes-Desktop/homepage.png)
 
+Sign Up Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Desktop/signup.png)
+
 About Page
 
 ![ Hi-Res Wireframes](/docs/Wireframes-Desktop/about.png)
@@ -230,6 +234,10 @@ Home Page
 
 ![ Hi-Res Wireframes](/docs/Wireframes-Phone/homepage.png)
 
+Sign Up Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Phone/signup.png)
+
 About Page
 
 ![ Hi-Res Wireframes](/docs/Wireframes-Phone/about.png)
@@ -267,6 +275,10 @@ Partners Page
 Home Page
 
 ![ Hi-Res Wireframes](/docs/wireframes-Tablet/homepage.png)
+
+Sign Up Page
+
+![ Hi-Res Wireframes](/docs/Wireframes-Tablet/signup.png)
 
 About Page
 
@@ -314,5 +326,6 @@ Link to Trello : https://trello.com/b/KsSmOPrU/tree02-project-management
 ![ Trello Screenshot ](/docs/Trello/PM-trello-5.png)
 ![ Trello Screenshot ](/docs/Trello/PM-trello-6.png)
 ![ Trello Screenshot ](/docs/Trello/PM-trello-7.png)
+![ Trello Screenshot ](/docs/Trello/PM-trello-8.png)
 
 <br>

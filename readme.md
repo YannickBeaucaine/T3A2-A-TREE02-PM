@@ -13,14 +13,13 @@ Github : https://github.com/YannickBeaucaine/T3A2-A-TREE02-PM
 
 - ### Purpose :
 
-Tree02 is an application designed to create a customer portal between a user wanting to adopt a tree and a company that offers the service .It allow users to adopt a tree and track the relevant information about their adopted tree, such as location, type of tree, the name of the farm and the farmer,
-as well as the impact of the carbon footprint that their tree contributes to the ecosystem.
+TreeO2 is an API built to track trees planted by coffeee farmers in Timor Lest. It allows farmers to record and track information such as it's location, the type of tree, the name of the farm and the farmer, a farmer bio as well as the impact of the carbon footprint that their tree contributes to the ecosystem.
 
+The tracked trees can then adopted by the customers of a TreeO2 partner. Adopters adopt a tree when purchasing coffee in person at a partner store. The current implementation of the API means partner businesses need to manually collect customer information and payment before manually assigning a tree to the customer through the API and then manually paying the money to TreeO2. The customer is then sent an email with a link a to a website which displays the latest tree they have adopted.
 
-After discussing with our client about the requirements for the application and their needs from a business and customer point of view, we came to the conclusion that they didn't have a way to connect their clients with their new tree adoption business. Altought they have an incomplete API that have been written by a previous company in the past, they have been having to manually input costumers purchases and then emailing costumers back with information about their adopted tree.
+Our client, The Corner Store Network, has approached us to build a TreeO2 customer portal which interacts with the TreeO2 API. The purpose of this portal is to allow tree adopters to login and view information about all the trees they have adopted and to highlight the postive impact the organisation is having on farmers in Timor Lest. The portal will also allow customers to adopt trees online without having to go to a partner business in person. 
 
-
-Our application will solve this problem by creating a portal for their costumers to be able to direclty purchase their tree adoption and receive the relevant data about their adoption such as the type of tree, their location and the farmer that they will be supporting. Cutting down on the manual input for the business and reducing labour cost by automatting the process. It would aditionally give the users and businesses more feedback about their contribuition by having a "live update" functionality.
+Our solution will cut down the amount of manual labour required to allow customers to adopt trees and thereby reducing labour costs by automating the process. It would additionally give the users and businesses more feedback about their contribuition by having a "live update" functionality. It will also be a good promotion for TreeO2 and it's partners, giving them an online presence and a localised hub for all information on TreeO2 in a user friendly format.
 
 - ### Functionality / features :
 

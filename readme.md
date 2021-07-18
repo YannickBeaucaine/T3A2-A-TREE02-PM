@@ -56,7 +56,7 @@ Partnering businesses currently using the system is only offering the service to
 
 Adobe photoshop
 
-Adobe UX
+Adobe XD
 
 - ### OS :
 
@@ -84,11 +84,12 @@ CSS3
 
 React
 
+Bootstrap 
+
 - ### API :
 
 Stripe
 
-Devise
 
 - ### Deployment :
 
